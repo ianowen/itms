@@ -8,7 +8,7 @@
 	<name>WebMVC Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
-	<description>develop branch</description>
+	<description>develop branch - updated on local</description>
 
 	<properties>
 		<spring.version>4.3.5.RELEASE</spring.version>

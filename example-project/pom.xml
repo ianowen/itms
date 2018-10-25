@@ -9,6 +9,7 @@
 	<url>http://maven.apache.org</url>
 	
 	<description>develop branch - updated on local</description>
+	<description>updated via feature branch hap-4446</description>
 
 	<properties>
 		<spring.version>4.3.5.RELEASE</spring.version>

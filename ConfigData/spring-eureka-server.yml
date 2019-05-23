@@ -1,13 +1,11 @@
 ---
-# This default profile is used when running a single instance completely standalone:
-spring:
-  profiles: default
 eureka:
   instance:
-    hostname: eurekahost 
+    hostname: localhost
   client:
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/    
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
 
